@@ -1,4 +1,8 @@
 Test archive
 cambio1
 cambio 2 para el pull
+<<<<<<< HEAD
 cambio en rama 2
+=======
+Cambioen la rama 3
+>>>>>>> rama3
